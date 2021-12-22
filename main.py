@@ -31,7 +31,6 @@ def compare_heroes_by_intelligence():
 
 
 
-
 if __name__ == '__main__':
     compare_heroes_by_intelligence()
 
